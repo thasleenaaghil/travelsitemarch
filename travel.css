@@ -100,18 +100,9 @@
       margin-left: 100px;
     
 
-    animation: offer 5s;
-    position: relative;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-    animation-timing-function: linear;
+    
  }
 
-@keyframes offer {
-    from {left: 0%;}
-    to {left: 20%;}
-    
-  }
    
    
    .serve img:hover{
