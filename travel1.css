@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+  padding: 0px;
+}
+
+.container1{
+    background-image: url('https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    
+    
+    
+   }
+   
+   .w-25{
+    width: 100%;
+    height: 200px;
+    position: relative;
+   
+   left: 30%;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    border: none;
+   }
+   .form-label{
+    font-weight: 700;
+   }
+   .w-25 input {
+    width:310px;
+   }
+   .w-25 textarea{
+    width:310px;
+   }
+   
+   .btn-warning{
+    
+    border: none;
+    width: 100px;
+   }
+   
+   
+   .container1 h3{
+    color: rgb(180, 236, 13);
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    padding-top: 80px;
+   }
+  
